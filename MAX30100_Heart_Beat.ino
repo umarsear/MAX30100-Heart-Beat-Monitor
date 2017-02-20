@@ -1,3 +1,8 @@
+// Sample implementation of the MAX30100 PulseOximeter
+// Using the following module
+// http://www.ebay.com/itm/-/391709438817?ssPageName=STRK:MESE:IT
+// can not gaurantee if the app will work with other implementations of the module. 
+
 #include "MAX30100_PulseOximeter.h"
 #include <U8g2lib.h>
 #include <Wire.h>
